@@ -54,11 +54,11 @@ Als de terminal een antwoord geeft, bijvoorbeeld: v18.x.y, dan is NodeJS correct
 
 - Installeer nu alle dependencies door het volgende commando in de terminal te runnen:
 
-    _npm install_
+     npm install
 
 Wanneer dit klaar is, kun je de applicatie starten met behulp van:
 
-    _npm run start_
+     npm run start
 
 Als het goed is opent zich nu automatisch een webbrowers op je localhost(vaak:3000)
 
@@ -88,6 +88,12 @@ Via de pagina 'Registreer en Log in' kun je een account aanmaken. Die geeft je v
 - wensenlijst (een functie die helaas nog niet werkt)
 - bestellingen (een functie die helaas nog niet werkt)
 
-De navigatiebalk en de footer zijn op elke pagina bereikbaar en heeft clickable functies (waaronder de zoekbalk functie)
+De navigatiebalk en de footer zijn op elke pagina bereikbaar en heeft clickable functies (waaronder de zoekbalk functie en de FAQ's pagina)
+
+**contact**
+Mochten er vragen zijn of onduidelijkheden dan kun je me bereiken via rosalbezuijen@hotmail.com
+
+Rosal Bezuijen
+novi bootcamp frontend 2022-2023
 
 
